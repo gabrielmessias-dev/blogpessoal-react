@@ -1,4 +1,4 @@
-import { ChangeEvent, useEffect, useState, type FormEvent } from "react";
+import { type ChangeEvent, useEffect, useState, type FormEvent } from "react";
 import { useNavigate } from "react-router-dom";
 import { ClipLoader } from "react-spinners";
 import type Usuario from "../../models/Usuario";
