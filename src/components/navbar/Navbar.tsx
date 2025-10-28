@@ -29,7 +29,7 @@ function Navbar() {
             <Link to="/temas" className="hover:underline">
               Temas
             </Link>
-            <Link to="/cadastrar-tema" className="hover:underline">
+            <Link to="/cadastrartema" className="hover:underline">
               Cadastrar tema
             </Link>
             <Link to="/perfil" className="hover:underline">
